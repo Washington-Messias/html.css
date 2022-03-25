@@ -1,0 +1,68 @@
+* {
+    margin:0;
+    padding:0;
+}
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS_oU7oWYm7jlshFdip4kEanEAhly3B8tWvg&usqp=CAU);
+background-size:cover;
+font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+
+fieldset {
+    margin-left:250px;
+    margin-right: 310px;
+    margin-top:122px;
+    padding-top:5px;
+    background:blanchedalmond;
+}
+fieldset legend {
+  padding-top:20px;
+    margin-left: 190px;
+    font-size:18.7px;
+    color:black
+}
+.nome{
+    font-size:18px;
+    padding-left:95px;
+}
+.sobrenome{
+    font-size:18px;
+    padding-left:49px;
+    margin-top:10px;
+}
+.email {
+    font-size:18px;
+    padding-left:95px;
+    margin-top:10px;
+}
+.email2 {
+    font-size:18px;
+    padding-left:13px;
+    margin-top:10px;
+}
+.senha1 {
+    font-size:18px;
+    padding-left:100px;
+    margin-top:10px;
+}
+.senha2 {
+    font-size:18px;
+    padding-left:15px;
+    margin-top:10px;
+}
+.bt1 {
+    justify-content:space-between;
+    padding-left:368px;
+}
+
+.b1 {
+    cursor:pointer;
+    font-size:12px;
+    color:black;
+}
+.b2 {
+  cursor:pointer;
+
+}
